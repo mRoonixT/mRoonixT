@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mRoonixT
+- 👋 Hi, I’m René T. aka Roonix
 - 👀 I’m interested in programming, gaming, video eddeting and sport
 - 🌱 I’m currently learning Java, C#, React, PHP and workin with Linux-Server
 - 💞️ I’m looking to collaborate on ...
